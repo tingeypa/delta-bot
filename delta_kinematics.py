@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 
 """
+Delta Robot Kinematics code - Python borrowed from: https://github.com/mhp/delta-bot/blob/main/kinematics.py
+
+----
 Delta Robot Kinematics code, liberally borrowed from tutorial:
 http://forums.trossenrobotics.com/tutorials/introduction-129/delta-robot-kinematics-3276/
 License: "You can freely use this code in your applications."
